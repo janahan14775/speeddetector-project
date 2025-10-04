@@ -1,0 +1,13 @@
+flask
+pymongo
+sqlalchemy
+opencv-python
+torch
+torchvision
+numpy
+pandas
+pytesseract
+twilio
+imutils
+werkzeug
+
